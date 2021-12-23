@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "khana-sb-kelye",
+    "slug": "khana-sb-kelye",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "khana-sb-kelye"
+}
